@@ -1,0 +1,15 @@
+#Ctrl+Space c Create a new window (with shell)
+#Ctrl+Space w Choose a window from a list
+#Ctrl+Space 1 Switch to window 1
+#Ctrl+Space , Rename the current window
+#Ctrl+Space % Split the current pane horizontally into two panes
+#Ctrl+Space " Split the current pane vertically into two panes
+#Ctrl+Space o Go to the next pane
+#Ctrl+Space ; Toggle between the current and previous pane
+#Ctrl+Space x Close the current pane
+#Shift+Arrow Keys Switch between windows
+#Shift+Left Arrow Switch to the previous window
+#Shift+Right Arrow Switch to the next window
+#Ctrl+Space v Enter copy mode (Vi-style)
+#Ctrl+Space C-v Toggle rectangular selection in copy mode
+#Ctrl+Space y Copy the selected text in copy mode
